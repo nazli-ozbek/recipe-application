@@ -2,24 +2,24 @@
     <string name="app_name">MyRVExample</string>
 
     <string-array name="name_array">
-        <item>Sandwich</item>
-        <item>Steak</item>
-        <item>Pasta</item>
-        <item>Fish and Chips</item>
-        <item>Lasagna</item>
-        <item>Salad</item>
-        <item>Donuts</item>
-        <item>Tacos</item>
-        <item>Waffles</item>
-        <item>Sushi Rolls</item>
-        <item>Pancakes</item>
-        <item>Fried Chicken</item>
-        <item>Pizza</item>
-        <item>Ramen</item>
+        <item>🥪Sandwich</item>
+        <item>🥩Steak</item>
+        <item>🍝Pasta</item>
+        <item>🐟Fish and Chips</item>
+        <item>🫔Lasagna</item>
+        <item>🥗Salad</item>
+        <item>🍩Donuts</item>
+        <item>🌮Tacos</item>
+        <item>🧇Waffles</item>
+        <item>🍣Sushi Rolls</item>
+        <item>🥞Pancakes</item>
+        <item>🍗Fried Chicken</item>
+        <item>🍕Pizza</item>
+        <item>🍜Ramen</item>
     </string-array>
 
     <string-array name="type_array">
-        <item>Sandwich</item>
+        <item>Quick</item>
         <item>American</item>
         <item>Italian</item>
         <item>British</item>

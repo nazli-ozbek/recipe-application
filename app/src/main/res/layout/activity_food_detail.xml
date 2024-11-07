@@ -13,6 +13,7 @@
         android:id="@+id/main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#1f7a1f"
         tools:context=".UserDetailActivity">
 
         <TextView
@@ -22,6 +23,9 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
             android:text="TextView"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -31,6 +35,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="TextView"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="#ffffff"
             app:layout_constraintStart_toStartOf="@+id/foodView"
             app:layout_constraintTop_toBottomOf="@+id/foodView" />
 
@@ -40,6 +46,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="TextView"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#ffffff"
             app:layout_constraintStart_toStartOf="@+id/typeView"
             app:layout_constraintTop_toBottomOf="@+id/typeView" />
     </androidx.constraintlayout.widget.ConstraintLayout>
