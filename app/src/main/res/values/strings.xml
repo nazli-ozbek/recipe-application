@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MyRVExample</string>
+
+    <string-array name="name_array">
+        <item>Sandwich</item>
+        <item>Steak</item>
+        <item>Pasta</item>
+        <item>Fish and Chips</item>
+        <item>Lasagna</item>
+        <item>Salad</item>
+        <item>Donuts</item>
+        <item>Pasta</item>
+        <item>Tacos</item>
+        <item>Waffles</item>
+        <item>Waffles</item>
+        <item>Sushi Rolls</item>
+        <item>Pancakes</item>
+        <item>Fried Chicken</item>
+        <item>Lasagna</item>
+        <item>Sandwich</item>
+        <item>Sandwich</item>
+        <item>Pizza</item>
+        <item>Ramen</item>
+        <item>Salad</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Sandwich</item>
+        <item>American</item>
+        <item>Italian</item>
+        <item>British</item>
+        <item>Italian</item>
+        <item>Healthy</item>
+        <item>Donuts</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Belgian</item>
+        <item>Belgian</item>
+        <item>Japanese</item>
+        <item>American</item>
+        <item>Southern</item>
+        <item>Italian</item>
+        <item>Sandwich</item>
+        <item>Sandwich</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Healthy</item>
+    </string-array>
+
+    <string-array name="recipe_array">
+        <item>Flour, sugar, eggs, oil, and a dash of cinnamon to create a sweet and fluffy donut, deep fried until golden brown. Finish with a dusting of powdered sugar or glaze to perfection.</item>
+        <item>Beef steak, seasoned with salt, pepper, and garlic, seared on high heat to create a crispy crust while keeping the inside tender. Served with mashed potatoes and a side of grilled vegetables.</item>
+        <item>Spaghetti pasta cooked al dente, topped with a rich marinara sauce made from tomatoes, garlic, onions, and basil. Finished with a generous sprinkle of grated parmesan cheese and a side of garlic bread.</item>
+        <item>Donuts made with a soft dough of flour, sugar, eggs, and oil. After frying, they are dipped in a sweet glaze or dusted with powdered sugar, sometimes filled with cream or jam.</item>
+        <item>Classic lasagna made with layers of rich tomato sauce, seasoned ground beef, fresh ricotta cheese, and mozzarella, all baked to perfection until bubbly and golden on top.</item>
+        <item>A fresh salad made with crisp lettuce, ripe tomatoes, crunchy cucumbers, and a tangy vinaigrette dressing. You can add grilled chicken or boiled eggs for extra protein.</item>
+        <item>Freshly made donuts with a light and airy texture, deep-fried until golden brown, then coated with a sweet sugar glaze or filled with your favorite jam or custard.</item>
+        <item>Spaghetti noodles served with a flavorful marinara sauce made with tomatoes, garlic, onions, olive oil, and fresh basil. Sprinkle with grated parmesan cheese for an extra touch of flavor.</item>
+        <item>Tacos made with soft or crispy tortillas filled with seasoned beef or chicken, topped with lettuce, cheese, salsa, and a squeeze of lime for added zest.</item>
+        <item>Waffles made from a batter of flour, sugar, eggs, and milk, cooked to a crispy golden brown in a waffle iron. Serve with butter, maple syrup, and fresh fruit for a classic breakfast treat.</item>
+        <item>Waffles, light and crispy, made with flour, sugar, eggs, and milk. Top with whipped cream, fresh berries, or chocolate sauce for a sweet, indulgent treat.</item>
+        <item>Sushi rolls made with sushi rice, nori seaweed, and a variety of fillings such as fish, cucumber, avocado, and pickled vegetables. Served with soy sauce, wasabi, and pickled ginger.</item>
+        <item>Pancakes made from a batter of flour, eggs, milk, and sugar, cooked on a hot griddle until golden brown. Serve with butter and syrup or fresh fruit for a delicious breakfast.</item>
+        <item>Fried chicken, battered and seasoned with a mix of spices, then deep-fried to a crispy golden brown. Serve with mashed potatoes and gravy or coleslaw for a comforting meal.</item>
+        <item>Lasagna made with multiple layers of pasta, rich meat sauce, cheese, and béchamel, baked until bubbly and golden. It’s a hearty and filling dish, perfect for family gatherings.</item>
+        <item>Sandwich made with your choice of bread, filled with slices of deli meat, cheese, and fresh vegetables like lettuce, tomatoes, and cucumbers. Add mustard or mayo for extra flavor.</item>
+        <item>Sandwich made with soft bread, piled high with sliced turkey, lettuce, tomato, and mayonnaise. Serve with a side of chips or pickle slices for a classic lunch option.</item>
+        <item>Pizza made with a thin or thick crust, topped with a layer of tomato sauce, mozzarella cheese, and various toppings such as pepperoni, vegetables, or mushrooms. Baked in a hot oven until crispy and melted.</item>
+        <item>Ramen made with soft wheat noodles served in a rich broth made from pork, chicken, or vegetable stock. Topped with sliced pork, boiled egg, bamboo shoots, and green onions.</item>
+        <item>Salad made with fresh greens, cherry tomatoes, cucumbers, red onions, and a lemon vinaigrette dressing. Add grilled chicken or feta cheese for extra flavor and protein.</item>
+    </string-array>
+
+</resources>
