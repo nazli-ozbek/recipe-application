@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-    <variable
-        name="food"
-        type="com.example.myrvexample.model.Food" />
+        <variable
+            name="food"
+            type="com.example.myrvexample.model.Food" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#1f7a1f"
+        android:background="@drawable/background"
         tools:context=".UserDetailActivity">
 
         <TextView
@@ -36,7 +36,7 @@
             android:layout_marginTop="8dp"
             android:text="TextView"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            android:textColor="#051405"
+            android:textColor="#c71d6f"
             android:textStyle="italic"
             app:layout_constraintStart_toStartOf="@+id/foodView"
             app:layout_constraintTop_toBottomOf="@+id/foodView" />
@@ -57,5 +57,31 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/typeView"
             app:layout_constraintTop_toBottomOf="@+id/typeView" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="#c71d6f"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recipeView" />
+
+        <ImageView
+            android:id="@+id/foodImageView"
+            android:layout_width="380dp"
+            android:layout_height="239dp"
+            android:layout_marginTop="40dp"
+            android:adjustViewBounds="false"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.516"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recipeView" />
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
