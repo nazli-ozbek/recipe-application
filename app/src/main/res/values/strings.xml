@@ -36,19 +36,32 @@
     </string-array>
 
     <string-array name="recipe_array">
-        <item>A classic sandwich made with your choice of bread, deli meat, cheese, and fresh vegetables like lettuce, tomatoes, and cucumbers, finished with mustard or mayo.</item>
-        <item>Beef steak, seasoned with salt, pepper, and garlic, seared to create a crispy crust while keeping the inside tender. Served with mashed potatoes and grilled vegetables.</item>
-        <item>Spaghetti cooked al dente, topped with marinara sauce made from tomatoes, garlic, onions, and basil. Finished with parmesan cheese and garlic bread on the side.</item>
-        <item>Fish fillets battered and fried, served with thick-cut chips and a side of tartar sauce or malt vinegar.</item>
-        <item>Classic lasagna with layers of rich tomato sauce, seasoned ground beef, ricotta, and mozzarella cheese, baked until bubbly and golden.</item>
-        <item>A fresh salad made with lettuce, tomatoes, cucumbers, and vinaigrette dressing. Add grilled chicken or boiled eggs for extra protein.</item>
-        <item>Donuts with a sweet and fluffy texture, deep-fried until golden, finished with powdered sugar or glaze, and optionally filled with cream or jam.</item>
-        <item>Tacos with tortillas filled with seasoned beef or chicken, topped with lettuce, cheese, salsa, and a squeeze of lime.</item>
-        <item>Waffles cooked to golden brown in a waffle iron, served with butter, maple syrup, and fresh fruit.</item>
-        <item>Sushi rolls made with rice, nori, and fillings like fish, cucumber, and avocado. Served with soy sauce, wasabi, and pickled ginger.</item>
-        <item>Pancakes cooked on a griddle, served with butter and syrup or fresh fruit for a breakfast treat.</item>
-        <item>Fried chicken battered and seasoned with spices, deep-fried to a crispy golden brown, served with mashed potatoes or coleslaw.</item>
-        <item>Pizza with a thin or thick crust, topped with tomato sauce, mozzarella, and various toppings like pepperoni or vegetables.</item>
-        <item>Ramen noodles served in a rich broth with toppings like sliced pork, boiled egg, and green onions.</item>
+        <item>A versatile sandwich featuring fresh or toasted bread filled with layers of deli meats like turkey or ham, cheese slices, and a medley of crisp vegetables, such as lettuce, tomatoes, and cucumbers. Add condiments like mustard, mayo, or even a splash of vinegar for extra flavor. Customize with avocado, bacon, or herbs for a personal twist, and serve with a pickle on the side for a classic touch.</item>
+
+        <item>A perfectly seasoned beef steak, tenderized and rubbed with a blend of salt, cracked black pepper, garlic, and a hint of rosemary. Grilled or pan-seared to achieve a beautifully caramelized crust, while keeping the center juicy. Serve with a side of buttery mashed potatoes, a handful of grilled asparagus, and a drizzle of herb butter on top for an indulgent, satisfying meal.</item>
+
+        <item>Al dente spaghetti tossed in a rich, homemade marinara sauce, simmered with ripe tomatoes, garlic, onions, and fragrant basil. Topped generously with grated Parmesan and accompanied by warm garlic bread. Add a hint of red pepper flakes for a touch of heat or fresh basil leaves for an extra layer of Italian flavor.</item>
+
+        <item>Golden-battered fish fillets, fried to crispy perfection, served alongside thick-cut, twice-cooked chips for a classic British feel. Complete with a side of creamy tartar sauce, a wedge of lemon, and a sprinkle of malt vinegar for an authentic flavor boost. Often paired with mushy peas or coleslaw, this meal is a comforting favorite.</item>
+
+        <item>A rich, hearty lasagna layered with savory ground beef, Italian sausage, tangy marinara sauce, creamy ricotta, mozzarella, and Parmesan cheese. Each layer bakes together to create a bubbling, golden masterpiece with a slightly crispy top. Serve hot, garnished with fresh basil, and enjoy with a side of garlic bread or a light salad for balance.</item>
+
+        <item>A vibrant salad made with a mix of fresh greens like romaine, arugula, and spinach, combined with juicy tomatoes, cucumbers, shredded carrots, and red onions. Drizzled with a homemade vinaigrette dressing and optionally topped with grilled chicken, chickpeas, or sliced boiled eggs for added protein. Customize with toppings like nuts, seeds, or cheese for extra flavor.</item>
+
+        <item>Soft, airy donuts deep-fried to a perfect golden brown and coated in a sweet glaze or powdered sugar. Some are filled with creamy custard, fruit jam, or chocolate ganache for a delightful surprise inside. Serve fresh for a warm, melt-in-your-mouth experience, or try different flavors like cinnamon sugar, maple, or chocolate frosting for variety.</item>
+
+        <item>Traditional tacos featuring soft or crunchy tortillas filled with seasoned beef, chicken, or even fish, topped with shredded lettuce, grated cheese, diced tomatoes, and a dollop of sour cream or guacamole. Add a sprinkle of fresh cilantro and a squeeze of lime for an extra kick. Serve with rice and beans for a complete Mexican-inspired meal.</item>
+
+        <item>Golden, fluffy waffles with a crisp exterior and light, airy interior, served with butter, warm maple syrup, and a scattering of fresh berries or banana slices. For added indulgence, top with whipped cream, chocolate chips, or nut butter, making it a perfect breakfast or brunch treat that satisfies any sweet tooth.</item>
+
+        <item>Hand-rolled sushi made with seasoned rice and nori sheets, filled with fresh ingredients like salmon, tuna, avocado, cucumber, and crab stick. Rolled and sliced into bite-sized pieces, served with soy sauce for dipping, a dollop of wasabi, and thinly sliced pickled ginger on the side to cleanse the palate between bites.</item>
+
+        <item>Soft, fluffy pancakes griddled to golden brown perfection, served warm with a pat of butter melting on top and drizzled with maple syrup. For extra flavor, add fresh fruit, chocolate chips, or a dash of cinnamon to the batter. A delicious breakfast classic that pairs well with scrambled eggs and sausage.</item>
+
+        <item>Juicy fried chicken with a crunchy, flavorful crust, seasoned with a blend of spices and deep-fried until golden. Served hot, often with classic Southern sides like mashed potatoes, coleslaw, or cornbread. This comfort food favorite is perfect for gatherings and guaranteed to satisfy any craving.</item>
+
+        <item>A crispy pizza crust topped with rich tomato sauce, melted mozzarella cheese, and a variety of toppings like pepperoni, mushrooms, bell peppers, or olives. Baked until bubbly and golden, and often finished with a sprinkle of fresh basil or oregano. This crowd-pleasing dish is perfect for any pizza lover.</item>
+
+        <item>A steaming bowl of ramen with savory broth, chewy noodles, and a variety of toppings like sliced pork, marinated boiled eggs, green onions, and bamboo shoots. The broth can range from mild miso to rich tonkotsu, making it a comforting, flavorful meal that is perfect for chilly days or whenever you are in the mood for a warming soup.</item>
     </string-array>
 </resources>
