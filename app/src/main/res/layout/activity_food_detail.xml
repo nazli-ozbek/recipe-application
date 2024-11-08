@@ -36,18 +36,25 @@
             android:layout_marginTop="8dp"
             android:text="TextView"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            android:textColor="#ffffff"
+            android:textColor="#051405"
+            android:textStyle="italic"
             app:layout_constraintStart_toStartOf="@+id/foodView"
             app:layout_constraintTop_toBottomOf="@+id/foodView" />
 
         <TextView
             android:id="@+id/recipeView"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:fontFamily="sans-serif"
+            android:lineSpacingExtra="10sp"
             android:text="TextView"
-            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textAlignment="viewStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#ffffff"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/typeView"
             app:layout_constraintTop_toBottomOf="@+id/typeView" />
     </androidx.constraintlayout.widget.ConstraintLayout>
