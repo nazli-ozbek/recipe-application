@@ -9,8 +9,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="410dp"
-        android:layout_height="108dp"
+        android:layout_width="412dp"
+        android:layout_height="114dp"
         android:layout_marginTop="4dp"
         android:background="@drawable/background_v2"
         android:src="@drawable/foodsrecipes"
